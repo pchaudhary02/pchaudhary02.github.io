@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#fffafa;
+    color: #000000
+}
+
+header {
+    color: #3f4144;
+    font-size: 16px;
+}
+
+nav {
+    color: #3f4144;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.CabalTrunks {
+    background-color: #E3DB82;
+    border: 10px solid #B08686;
+    padding: 20px;
+    margin: 100px;
+    width: 300px
+    display: none;
+}
