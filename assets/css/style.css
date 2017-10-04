@@ -10,6 +10,7 @@ body {
 header a{
     color: #62666C;
     font-size: 16px;
+    position: sticky;
 }
 
 nav a{
@@ -19,6 +20,23 @@ nav a{
 
 a {
     text-decoration: none;
+}
+
+h1 {
+    color: #333132;
+    font-size: 80px;
+    margin-top: 205px;
+    margin-left: 350px;
+}
+
+.bio {
+    display: block;
+    border: 0;
+    width: 535px;
+    color: #333132;
+    font-size: 18px;
+    margin-top: 50px;
+    margin-left: 415px;
 }
 
 .Preview-Image {
