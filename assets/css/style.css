@@ -45,7 +45,12 @@ h2 {
 h4 {
     margin-left: 80px;
     color: #333132;
-    font-size: 13px;
+    font-size: 15px;
+}
+
+p {
+    font-size: 23px;
+    color: #333132;
 }
 
 .bio {
