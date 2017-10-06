@@ -23,10 +23,29 @@ a {
 }
 
 h1 {
+    display: block;
+    border: 0;
+    width: 1080px;
     color: #333132;
     font-size: 80px;
     margin-top: 205px;
-    margin-left: 350px;
+    left: 20%;
+    margin-left: 216px;
+}
+
+h2 {
+    display: block;
+    border: 0;
+    margin-top: 60px;
+    margin-left: 80px;
+    color: #333132;
+    font-size: 35px;
+}
+
+h4 {
+    margin-left: 80px;
+    color: #333132;
+    font-size: 13px;
 }
 
 .bio {
@@ -85,7 +104,14 @@ h1 {
     background-color: #FFF797
 }
 
+.hero img {
+    display: block;
+    border: 0;
+    width: 1757px;
+    margin-left: 80px;
+}
+
 footer a{
     color: #62666C;
-    font-size: 10px;
+    font-size: 12px;
 }
