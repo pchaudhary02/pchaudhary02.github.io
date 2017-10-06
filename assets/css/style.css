@@ -111,6 +111,16 @@ h4 {
     margin-left: 80px;
 }
 
+.project-images img {
+    display: block;
+    border: 0;
+    width: 865px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 80px;
+}
+
 footer a{
     color: #62666C;
     font-size: 12px;
