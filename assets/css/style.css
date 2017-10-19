@@ -22,13 +22,13 @@ a {
     text-decoration: none;
 }
 
+
 h1 {
     display: block;
     border: 0;
-    width: 1080px;
     color: #333132;
     font-size: 80px;
-    margin-top: 205px;
+    margin-top: 150px;
     left: 20%;
     margin-left: 216px;
 }
@@ -109,11 +109,8 @@ p {
     background-color: #FFF797
 }
 
-.hero img {
-    display: block;
-    border: 0;
-    width: 1757px;
-    margin-left: 80px;
+.project img {
+    padding-bottom: 30px;
 }
 
 .project-images img {
@@ -124,6 +121,17 @@ p {
     margin-bottom: 25px;
     margin-right: 25px;
     margin-left: 80px;
+}
+
+.container-fluid {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.navigation-bar {
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-left: 35px;
 }
 
 footer a{
