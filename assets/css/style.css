@@ -23,7 +23,8 @@ a {
 }
 
 h1 {
-    padding-top: 100px;
+    padding-top: 10%;
+    font-size: 55px;
 }
 
 h2 {
@@ -118,4 +119,8 @@ p {
 footer a{
     color: #62666C;
     font-size: 12px;
+}
+
+.hero {
+    padding-bottom: 1%;
 }
