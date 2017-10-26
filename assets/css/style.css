@@ -7,6 +7,10 @@ body {
     color: #000000
 }
 
+.btn {
+    background-color:#fffafa;
+}
+
 header a{
     color: #62666C;
     font-size: 16px;
@@ -35,14 +39,13 @@ h2 {
     font-size: 35px;
 }
 
+/* .title h2 {
+    padding-top: 0;
+} */
+
 h4 {
     color: #333132;
     font-size: 15px;
-}
-
-p {
-    font-size: 16px;
-    color: #333132;
 }
 
 .Preview-Image {
@@ -91,20 +94,6 @@ p {
     background-color: #FFF797
 }
 
-.project img {
-    padding-bottom: 5%;
-}
-
-.project-images img {
-    display: block;
-    border: 0;
-    width: 865px;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    padding-right: 5%;
-    padding-left: 5%;
-}
-
 .container-fluid {
     padding-left: 2%;
     padding-right: 2%;
@@ -123,4 +112,10 @@ footer a{
 
 .hero {
     padding-bottom: 1%;
+}
+
+p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 18px;
 }
